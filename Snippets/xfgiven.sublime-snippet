@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+[xfgiven_${1:X}]${0}[/xfgiven_${1:X}]
+]]></content>
+	<description>[xfgiven_x] tags</description>
+	<tabTrigger>xfgiven</tabTrigger>
+	<scope>text.html.dle,source.dle</scope>
+</snippet>

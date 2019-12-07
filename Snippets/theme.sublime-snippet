@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+{THEME}${0}
+]]></content>
+	<description>{THEME} tag</description>
+	<tabTrigger>theme</tabTrigger>
+	<scope>text.html.dle,source.dle</scope>
+</snippet>

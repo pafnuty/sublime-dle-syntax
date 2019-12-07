@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+{include file="${1:/templates/mytemplate/my_block.tpl}"}${0}
+]]></content>
+	<description>{include} tag</description>
+	<tabTrigger>include</tabTrigger>
+	<scope>text.html.dle,source.dle</scope>
+</snippet>
