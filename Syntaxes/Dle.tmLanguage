@@ -42,12 +42,12 @@
 							<key>1</key>
 							<dict>
 								<key>name</key>
-								<string>punctuation.definition.tag.begin.dle</string>
+								<string>constant.language.dle</string>
 							</dict>
 							<key>2</key>
 							<dict>
 								<key>name</key>
-								<string>entity.name.tag.other.dle</string>
+								<string>support.function.built-in.dle</string>
 							</dict>
 						</dict>
 						<key>end</key>
@@ -57,19 +57,19 @@
 							<key>1</key>
 							<dict>
 								<key>name</key>
-								<string>punctuation.definition.tag.end.dle</string>
+								<string>constant.language.dle</string>
 							</dict>
 							<key>2</key>
 							<dict>
 								<key>name</key>
 								<string>
-									punctuation.definition.tag.begin.dle meta.scope.between-tag-pair.dle
+									constant.language.dle meta.scope.between-tag-pair.dle
 								</string>
 							</dict>
 							<key>3</key>
 							<dict>
 								<key>name</key>
-								<string>punctuation.definition.tag.begin.dle</string>
+								<string>constant.language.dle</string>
 							</dict>
 							<key>4</key>
 							<dict>
@@ -79,7 +79,7 @@
 							<key>5</key>
 							<dict>
 								<key>name</key>
-								<string>punctuation.definition.tag.end.dle</string>
+								<string>constant.language.dle</string>
 							</dict>
 						</dict>
 						<key>name</key>
@@ -132,7 +132,7 @@
 						<key>end</key>
 						<string>(\})</string>
 						<key>name</key>
-						<string>punctuation.definition.variable.dle</string>
+						<string>constant.language.dle</string>
 						<key>patterns</key>
 						<array>
 							<dict>

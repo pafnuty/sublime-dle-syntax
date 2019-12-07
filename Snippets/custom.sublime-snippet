@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+{custom${1: id="${2:1,2,5-8}"}${3: category="${4:2,3,5-8}"}${5: author="${6:x}"}${7: days="${8:x}"}${9: template="${10:custom}"}${11: available="${12:global}"}${13: navigation="${14:no}"}${15: from="${16:0}"}${17: limit="${18:10}"}${19: fixed="${20:yes}"}${21: order="${22:date}"}${23: sort="${24:desc}"}${25: cache="${26:yes}"}}${0}
+]]></content>
+	<description>{custom} tag</description>
+	<tabTrigger>custom</tabTrigger>
+	<scope>text.html.dle,source.dle</scope>
+</snippet>
